@@ -1,0 +1,11 @@
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.deps.json
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.dll
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/bin/Debug/net8.0/PrimeService.pdb
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfoInputs.cache
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.AssemblyInfo.cs
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.csproj.CoreCompileInputs.cache
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.dll
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/refint/PrimeService.dll
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/PrimeService.pdb
+/Users/yjchun/development/azure-dev/unit-testing-using-dotnet-test/unit-testing-using-dotnet-test/PrimeService/obj/Debug/net8.0/ref/PrimeService.dll
